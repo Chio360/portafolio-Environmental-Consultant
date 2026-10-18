@@ -1,0 +1,10 @@
+.subtitle {
+    scroll-margin-top: 90px; /* Evita que la barra de navegación tape el texto al hacer clic */
+    display: inline-block;
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    font-weight: 600;
+    color: var(--accent-color);
+    margin-bottom: 0.5rem;
+}
